@@ -6,7 +6,8 @@ It seems that the SpriteView is not picking up the updates and is not changing t
 
 Related questions:
 
-- TODO
+- [Stackoverflow: SpriteView doesn't pause scene on state change](https://stackoverflow.com/questions/69610165/spriteview-doesnt-pause-scene-on-state-change)
+- [Apple Dev Forums: SpriteView doesn't pause scene on state change](https://developer.apple.com/forums/thread/692527)
 
 ![SpriteView-not-pausing-with-state](SpriteView-not-pausing.gif)
 
